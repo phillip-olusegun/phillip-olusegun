@@ -5,7 +5,7 @@ Gradual Steps
 
 ## Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Cyber-AY/threat-hunting-scenario-tor-)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/phillip-olusegun/threat-hunting-scenario-tor-)**
 
 
 ## Vulnerability Management Project
