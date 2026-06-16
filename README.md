@@ -10,7 +10,7 @@ Gradual Steps
 
 ## Vulnerability Management Project
 
-- **[Vulnerability Management Program Implementation](https://github.com/Cyber-AY/Vulnerability-management)**
+- **[Vulnerability Management Program Implementation](https://github.com/phillip-olusegun/Vulnerability-Management-Program)**
 
 
 ## Certifications
