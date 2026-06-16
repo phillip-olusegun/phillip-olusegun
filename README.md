@@ -1,16 +1,29 @@
-## Hi there 👋
+# Cybersecurity Project Portfolio 🔐
 
-<!--
-**phillip-olusegun/phillip-olusegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gradual Steps
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Cyber-AY/threat-hunting-scenario-tor-)**
+
+
+## Vulnerability Management Project
+
+- **[Vulnerability Management Program Implementation](https://github.com/Cyber-AY/Vulnerability-management)**
+
+
+## Certifications
+- **[Microsoft Certified Azure Security Engineer](https://learn.microsoft.com/en-us/users/olusegunojo-9437/credentials/9d48bfbb38199ae5?ref=https%3A%2F%2Fwww.linkedin.com%2F)**
+- **[CISA](https://drive.google.com/file/d/1C9k2XQT9zPtCAToxJVjlkJDZLDe30Eb3/view?usp=sharing)**
+- **[CCSK](https://www.credly.com/badges/d04b5164-fa82-4acc-af68-02cc6450a8b1/public_url)**
+
+## Tech Platforms | scripting 
+- **Microsoft Azure Cloud**
+- **Microsoft Sentinel**
+- **Microsoft Defender for Endpoint**
+- **Tenable**
+- **Bash**
+- **KQL**
+- **PowerShell**
+<hr/>
