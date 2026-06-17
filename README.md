@@ -1,6 +1,6 @@
 # Cybersecurity Project Portfolio 🔐
 
-Gradual Steps.............%
+Gradual Steps.............Loading projects..............%
 
 
 ## Threat Hunting and Security Operations
