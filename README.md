@@ -1,8 +1,5 @@
 # Cybersecurity Project Portfolio 🔐
 
-Gradual Steps............%
-
-
 
 ## Threat Hunting and Security Operations
 
@@ -13,6 +10,9 @@ Gradual Steps............%
 
 - **[Vulnerability Management Program Implementation](https://github.com/phillip-olusegun/Vulnerability-Management-Program)**
 
+## New Project
+
+- **[Loading..........%]**
 
 ## Certifications
 - **[Microsoft Certified Azure Security Engineer](https://learn.microsoft.com/en-us/users/olusegunojo-9437/credentials/9d48bfbb38199ae5?ref=https%3A%2F%2Fwww.linkedin.com%2F)**
