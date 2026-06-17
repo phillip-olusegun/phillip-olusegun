@@ -1,4 +1,4 @@
-# Cybersecurity Project Portfolio 🔐
+# Cybersecurity Project Portfolio
 
 
 ## Threat Hunting and Security Operations
